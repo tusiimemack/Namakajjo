@@ -1,0 +1,3 @@
+Adding images
+styling 
+creating admin dashboard
