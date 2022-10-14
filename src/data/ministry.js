@@ -29,12 +29,6 @@ let ministry = [
     content:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod",
   },
-  {
-    img: "./mhhhjjhjhj",
-    title: "Praise Minsitry",
-    content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod",
-  },
 ];
 
 export default ministry;
