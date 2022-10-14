@@ -1,5 +1,4 @@
 Adding images
 styling 
-creating admin dashboard
 adding react router
-adding {testimonies, news, about} pages
+adding {testimonies, news} pages
