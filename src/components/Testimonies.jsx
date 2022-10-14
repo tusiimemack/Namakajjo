@@ -1,7 +1,7 @@
 import React from "react";
 
-function Testimonies(){
-    return
+function Testimonies() {
+  return;
 }
 
 export default Testimonies;

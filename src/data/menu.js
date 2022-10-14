@@ -5,6 +5,7 @@ let menu = [
   "About",
   "Testimonies",
   "Contact",
+  "Donate",
 ];
 
 export default menu;
